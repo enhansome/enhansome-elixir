@@ -1905,7 +1905,7 @@
             "archived": false,
             "id": 483460745,
             "language": "Elixir",
-            "last_commit": "2026-08-25T04:27:57Z",
+            "last_commit": "2026-08-25T05:16:24Z",
             "owner": "beaver-lodge",
             "repo": "beaver",
             "stars": 1
@@ -10236,7 +10236,7 @@
             "archived": false,
             "id": 37813375,
             "language": "Elixir",
-            "last_commit": "2026-08-18T09:04:01Z",
+            "last_commit": "2026-08-25T05:42:41Z",
             "owner": "beam-community",
             "repo": "jsonapi",
             "stars": 510
@@ -11340,7 +11340,7 @@
             "last_commit": "2026-07-31T18:04:15Z",
             "owner": "atomvm",
             "repo": "AtomVM",
-            "stars": 2215
+            "stars": 2216
           }
         },
         {
@@ -12390,7 +12390,7 @@
             "archived": false,
             "id": 257787813,
             "language": "Elixir",
-            "last_commit": "2026-08-25T04:46:54Z",
+            "last_commit": "2026-08-25T05:46:55Z",
             "owner": "firezone",
             "repo": "firezone",
             "stars": 9041
@@ -21474,7 +21474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:49:35.989Z",
+    "last_updated": "2026-08-25T05:47:57.569Z",
     "original_repository": "h4cc/awesome-elixir",
     "original_repository_id": 21402627,
     "original_repository_sha": "6f1dc0b67ed44e405a6d31303ba42f4f47cbe0d9",
