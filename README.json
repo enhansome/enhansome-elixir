@@ -111,7 +111,7 @@
             "last_commit": "2023-08-28T14:32:22Z",
             "owner": "witchcrafters",
             "repo": "witchcraft",
-            "stars": 1237
+            "stars": 1236
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2021-10-27T23:47:51Z",
             "owner": "rob-brown",
             "repo": "MonadEx",
-            "stars": 309
+            "stars": 308
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2025-10-19T04:12:42Z",
             "owner": "sabiwara",
             "repo": "aja",
-            "stars": 226
+            "stars": 225
           }
         },
         {
@@ -551,21 +551,6 @@
         },
         {
           "node_type": "item",
-          "title": "aruspex",
-          "description": "Aruspex is a configurable constraint solver, written purely in Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 40417301,
-            "language": "Elixir",
-            "last_commit": "2016-07-10T22:20:38Z",
-            "owner": "Dkendal",
-            "repo": "aruspex",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
           "title": "cuckoo",
           "description": "A pure Elixir implementation of Cuckoo Filters.",
           "children": [],
@@ -596,17 +581,17 @@
         },
         {
           "node_type": "item",
-          "title": "Closure Table",
-          "description": "Closure Table for Elixir - a simple solution for storing and manipulating complex hierarchies. It provides in-memory and Ecto adapters.",
+          "title": "aruspex",
+          "description": "Aruspex is a configurable constraint solver, written purely in Elixir.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 200294084,
+            "id": 40417301,
             "language": "Elixir",
-            "last_commit": "2025-07-04T00:13:52Z",
-            "owner": "florinpatrascu",
-            "repo": "closure_table",
-            "stars": 40
+            "last_commit": "2016-07-10T22:20:38Z",
+            "owner": "Dkendal",
+            "repo": "aruspex",
+            "stars": 41
           }
         },
         {
@@ -622,6 +607,21 @@
             "owner": "pavlos",
             "repo": "gen_fsm",
             "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Closure Table",
+          "description": "Closure Table for Elixir - a simple solution for storing and manipulating complex hierarchies. It provides in-memory and Ecto adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200294084,
+            "language": "Elixir",
+            "last_commit": "2025-07-04T00:13:52Z",
+            "owner": "florinpatrascu",
+            "repo": "closure_table",
+            "stars": 39
           }
         },
         {
@@ -686,21 +686,6 @@
         },
         {
           "node_type": "item",
-          "title": "exor_filter",
-          "description": "Nif for xor_filters. 'Faster and Smaller Than Bloom and Cuckoo Filters'.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 229660555,
-            "language": "C",
-            "last_commit": "2021-12-02T15:49:04Z",
-            "owner": "mpope9",
-            "repo": "exor_filter",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "eastar",
           "description": "A* graph pathfinding in pure Elixir.",
           "children": [],
@@ -711,6 +696,21 @@
             "last_commit": "2024-03-10T22:19:14Z",
             "owner": "wkhere",
             "repo": "eastar",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exor_filter",
+          "description": "Nif for xor_filters. 'Faster and Smaller Than Bloom and Cuckoo Filters'.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229660555,
+            "language": "C",
+            "last_commit": "2021-12-02T15:49:04Z",
+            "owner": "mpope9",
+            "repo": "exor_filter",
             "stars": 35
           }
         },
@@ -821,21 +821,6 @@
         },
         {
           "node_type": "item",
-          "title": "sorted_set",
-          "description": "Sorted Sets for Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 35753334,
-            "language": "Elixir",
-            "last_commit": "2017-05-22T18:42:14Z",
-            "owner": "tyre",
-            "repo": "sorted_set",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
           "title": "simhash",
           "description": "Simhash implementation using Siphash and N-grams.",
           "children": [],
@@ -846,6 +831,21 @@
             "last_commit": "2020-03-06T16:57:30Z",
             "owner": "UniversalAvenue",
             "repo": "simhash-ex",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorted_set",
+          "description": "Sorted Sets for Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35753334,
+            "language": "Elixir",
+            "last_commit": "2017-05-22T18:42:14Z",
+            "owner": "tyre",
+            "repo": "sorted_set",
             "stars": 23
           }
         },
@@ -881,21 +881,6 @@
         },
         {
           "node_type": "item",
-          "title": "zipper_tree",
-          "description": "Variadic arity tree with a zipper for Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 30470077,
-            "language": "Elixir",
-            "last_commit": "2015-03-08T21:45:27Z",
-            "owner": "Dkendal",
-            "repo": "zipper_tree",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
           "title": "elistrix",
           "description": "A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.",
           "children": [],
@@ -921,6 +906,21 @@
             "last_commit": "2025-07-15T04:41:07Z",
             "owner": "vic",
             "repo": "indifferent",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zipper_tree",
+          "description": "Variadic arity tree with a zipper for Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30470077,
+            "language": "Elixir",
+            "last_commit": "2015-03-08T21:45:27Z",
+            "owner": "Dkendal",
+            "repo": "zipper_tree",
             "stars": 19
           }
         },
@@ -1016,21 +1016,6 @@
         },
         {
           "node_type": "item",
-          "title": "mason",
-          "description": "Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 138142941,
-            "language": "Elixir",
-            "last_commit": "2018-06-21T11:48:16Z",
-            "owner": "spacepilots",
-            "repo": "mason",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
           "title": "exfsm",
           "description": "Simple elixir library to define a static FSM.",
           "children": [],
@@ -1076,6 +1061,21 @@
         },
         {
           "node_type": "item",
+          "title": "mason",
+          "description": "Coerce maps into structs. This is helpful e.g. when you interface a REST API and want to create a struct from the response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138142941,
+            "language": "Elixir",
+            "last_commit": "2018-06-21T11:48:16Z",
+            "owner": "spacepilots",
+            "repo": "mason",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "rock",
           "description": "Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes.",
           "children": [],
@@ -1106,21 +1106,6 @@
         },
         {
           "node_type": "item",
-          "title": "key2value",
-          "description": "Erlang 2-way Set Associative Map.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 9860072,
-            "language": "Erlang",
-            "last_commit": "2023-10-26T18:45:20Z",
-            "owner": "okeuday",
-            "repo": "key2value",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
           "title": "lfsr",
           "description": "Elixir implementation of a binary Galois Linear Feedback Shift Register.",
           "children": [],
@@ -1147,6 +1132,21 @@
             "owner": "q60",
             "repo": "rational",
             "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "key2value",
+          "description": "Erlang 2-way Set Associative Map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9860072,
+            "language": "Erlang",
+            "last_commit": "2023-10-26T18:45:20Z",
+            "owner": "okeuday",
+            "repo": "key2value",
+            "stars": 7
           }
         },
         {
@@ -1755,10 +1755,10 @@
             "archived": false,
             "id": 903999320,
             "language": "Elixir",
-            "last_commit": "2026-08-19T12:31:26Z",
+            "last_commit": "2026-08-26T02:35:16Z",
             "owner": "agentjido",
             "repo": "jido",
-            "stars": 1812
+            "stars": 1814
           }
         },
         {
@@ -1785,10 +1785,10 @@
             "archived": false,
             "id": 1051339863,
             "language": "Elixir",
-            "last_commit": "2026-08-24T20:03:13Z",
+            "last_commit": "2026-08-25T19:54:05Z",
             "owner": "agentjido",
             "repo": "req_llm",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -1845,7 +1845,7 @@
             "archived": false,
             "id": 772824591,
             "language": "Elixir",
-            "last_commit": "2026-08-24T05:24:08Z",
+            "last_commit": "2026-08-26T01:34:45Z",
             "owner": "noizu-labs-ml",
             "repo": "genai",
             "stars": 33
@@ -1905,7 +1905,7 @@
             "archived": false,
             "id": 483460745,
             "language": "Elixir",
-            "last_commit": "2026-08-25T05:16:24Z",
+            "last_commit": "2026-08-26T01:37:20Z",
             "owner": "beaver-lodge",
             "repo": "beaver",
             "stars": 1
@@ -2931,7 +2931,7 @@
             "last_commit": "2026-03-24T13:57:30Z",
             "owner": "erlware",
             "repo": "relx",
-            "stars": 692
+            "stars": 693
           }
         },
         {
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 78295322,
             "language": "Elixir",
-            "last_commit": "2026-08-24T22:12:41Z",
+            "last_commit": "2026-08-25T15:26:47Z",
             "owner": "rockneurotiko",
             "repo": "ex_gram",
             "stars": 240
@@ -3624,7 +3624,7 @@
             "last_commit": "2025-01-09T09:28:41Z",
             "owner": "bitwalker",
             "repo": "libcluster",
-            "stars": 2155
+            "stars": 2156
           }
         },
         {
@@ -3666,7 +3666,7 @@
             "archived": false,
             "id": 120816355,
             "language": "Elixir",
-            "last_commit": "2026-08-25T02:03:56Z",
+            "last_commit": "2026-08-26T02:09:55Z",
             "owner": "aws-beam",
             "repo": "aws-elixir",
             "stars": 596
@@ -3972,7 +3972,7 @@
             "archived": false,
             "id": 10327316,
             "language": "Elixir",
-            "last_commit": "2026-06-12T11:54:16Z",
+            "last_commit": "2026-08-25T11:42:12Z",
             "owner": "jeremyjh",
             "repo": "dialyxir",
             "stars": 1795
@@ -4911,7 +4911,7 @@
             "last_commit": "2026-08-17T11:16:30Z",
             "owner": "quantum-elixir",
             "repo": "quantum-core",
-            "stars": 2414
+            "stars": 2415
           }
         },
         {
@@ -6267,7 +6267,7 @@
             "archived": false,
             "id": 101330186,
             "language": "Elixir",
-            "last_commit": "2026-08-04T15:00:14Z",
+            "last_commit": "2026-08-25T11:21:02Z",
             "owner": "jvoegele",
             "repo": "wait_for_it",
             "stars": 17
@@ -6321,7 +6321,7 @@
             "last_commit": "2025-09-23T14:43:16Z",
             "owner": "elixirkoans",
             "repo": "elixir-koans",
-            "stars": 2403
+            "stars": 2402
           }
         },
         {
@@ -6333,7 +6333,7 @@
             "archived": false,
             "id": 16328245,
             "language": "Elixir",
-            "last_commit": "2026-08-24T20:21:34Z",
+            "last_commit": "2026-08-25T20:38:52Z",
             "owner": "hexpm",
             "repo": "hexpm",
             "stars": 1170
@@ -6684,7 +6684,7 @@
             "archived": false,
             "id": 58991612,
             "language": "Elixir",
-            "last_commit": "2026-08-24T15:39:47Z",
+            "last_commit": "2026-08-25T15:05:10Z",
             "owner": "sorentwo",
             "repo": "flippant",
             "stars": 107
@@ -7152,7 +7152,7 @@
             "archived": false,
             "id": 728320777,
             "language": "Elixir",
-            "last_commit": "2026-08-24T10:16:38Z",
+            "last_commit": "2026-08-25T17:51:15Z",
             "owner": "naymspace",
             "repo": "backpex",
             "stars": 845
@@ -8268,10 +8268,10 @@
             "archived": false,
             "id": 16072585,
             "language": "Elixir",
-            "last_commit": "2026-08-21T13:40:11Z",
+            "last_commit": "2026-08-25T09:10:45Z",
             "owner": "phoenixframework",
             "repo": "phoenix",
-            "stars": 23126
+            "stars": 23125
           }
         },
         {
@@ -8283,10 +8283,10 @@
             "archived": false,
             "id": 212487543,
             "language": "Elixir",
-            "last_commit": "2026-08-25T04:27:57Z",
+            "last_commit": "2026-08-25T21:46:59Z",
             "owner": "ash-project",
             "repo": "ash",
-            "stars": 2478
+            "stars": 2480
           }
         },
         {
@@ -8298,10 +8298,10 @@
             "archived": false,
             "id": 281977300,
             "language": "Elixir",
-            "last_commit": "2026-08-24T23:12:16Z",
+            "last_commit": "2026-08-26T01:07:32Z",
             "owner": "bartblast",
             "repo": "hologram",
-            "stars": 1482
+            "stars": 1484
           }
         },
         {
@@ -8316,7 +8316,7 @@
             "last_commit": "2026-06-04T10:30:12Z",
             "owner": "synrc",
             "repo": "n2o",
-            "stars": 1342
+            "stars": 1341
           }
         },
         {
@@ -8328,10 +8328,10 @@
             "archived": false,
             "id": 416902200,
             "language": "Elixir",
-            "last_commit": "2026-08-25T04:44:57Z",
+            "last_commit": "2026-08-25T19:20:30Z",
             "owner": "petalframework",
             "repo": "petal_components",
-            "stars": 1051
+            "stars": 1052
           }
         },
         {
@@ -8871,7 +8871,7 @@
             "archived": false,
             "id": 50259821,
             "language": "Elixir",
-            "last_commit": "2026-08-24T22:50:44Z",
+            "last_commit": "2026-08-26T01:21:52Z",
             "owner": "nerves-project",
             "repo": "nerves",
             "stars": 2484
@@ -10236,7 +10236,7 @@
             "archived": false,
             "id": 37813375,
             "language": "Elixir",
-            "last_commit": "2026-08-25T05:42:41Z",
+            "last_commit": "2026-08-25T11:44:28Z",
             "owner": "beam-community",
             "repo": "jsonapi",
             "stars": 510
@@ -10584,7 +10584,7 @@
             "archived": false,
             "id": 37281807,
             "language": "Elixir",
-            "last_commit": "2026-08-17T20:07:29Z",
+            "last_commit": "2026-08-25T17:07:11Z",
             "owner": "honeybadger-io",
             "repo": "honeybadger-elixir",
             "stars": 183
@@ -11340,7 +11340,7 @@
             "last_commit": "2026-07-31T18:04:15Z",
             "owner": "atomvm",
             "repo": "AtomVM",
-            "stars": 2216
+            "stars": 2217
           }
         },
         {
@@ -12258,7 +12258,7 @@
             "archived": false,
             "id": 40983173,
             "language": "Rust",
-            "last_commit": "2026-08-23T00:09:22Z",
+            "last_commit": "2026-08-25T20:00:56Z",
             "owner": "rusterlium",
             "repo": "rustler",
             "stars": 4856
@@ -12390,10 +12390,10 @@
             "archived": false,
             "id": 257787813,
             "language": "Elixir",
-            "last_commit": "2026-08-25T05:46:55Z",
+            "last_commit": "2026-08-26T04:50:06Z",
             "owner": "firezone",
             "repo": "firezone",
-            "stars": 9041
+            "stars": 9042
           }
         },
         {
@@ -12720,7 +12720,7 @@
             "last_commit": "2026-08-21T20:45:00Z",
             "owner": "elixir-ecto",
             "repo": "ecto",
-            "stars": 6490
+            "stars": 6488
           }
         },
         {
@@ -12762,7 +12762,7 @@
             "archived": false,
             "id": 40570904,
             "language": "Elixir",
-            "last_commit": "2026-08-21T15:54:03Z",
+            "last_commit": "2026-08-25T08:37:34Z",
             "owner": "whatyouhide",
             "repo": "redix",
             "stars": 1140
@@ -14322,7 +14322,7 @@
             "last_commit": "2016-01-13T11:40:59Z",
             "owner": "ricn",
             "repo": "pdf2htmlex",
-            "stars": 91
+            "stars": 92
           }
         }
       ],
@@ -14343,7 +14343,7 @@
             "last_commit": "2026-08-19T13:40:20Z",
             "owner": "elixir-grpc",
             "repo": "grpc",
-            "stars": 1521
+            "stars": 1522
           }
         },
         {
@@ -14526,7 +14526,7 @@
             "archived": false,
             "id": 172532184,
             "language": "Elixir",
-            "last_commit": "2026-08-18T19:53:32Z",
+            "last_commit": "2026-08-25T15:34:24Z",
             "owner": "oban-bg",
             "repo": "oban",
             "stars": 3959
@@ -15348,7 +15348,7 @@
             "last_commit": "2026-01-04T22:01:38Z",
             "owner": "build-trust",
             "repo": "ockam",
-            "stars": 4632
+            "stars": 4633
           }
         },
         {
@@ -15864,7 +15864,7 @@
             "archived": false,
             "id": 42458047,
             "language": "Elixir",
-            "last_commit": "2026-08-18T22:53:36Z",
+            "last_commit": "2026-08-25T22:53:24Z",
             "owner": "beam-community",
             "repo": "ex_machina",
             "stars": 2058
@@ -15894,10 +15894,10 @@
             "archived": false,
             "id": 104735813,
             "language": "Elixir",
-            "last_commit": "2026-08-06T10:08:36Z",
+            "last_commit": "2026-08-25T08:30:43Z",
             "owner": "dashbitco",
             "repo": "mox",
-            "stars": 1400
+            "stars": 1401
           }
         },
         {
@@ -15924,7 +15924,7 @@
             "archived": false,
             "id": 18573162,
             "language": "Elixir",
-            "last_commit": "2026-08-24T01:14:44Z",
+            "last_commit": "2026-08-26T00:55:38Z",
             "owner": "elixirs",
             "repo": "faker",
             "stars": 1196
@@ -16845,7 +16845,7 @@
             "archived": false,
             "id": 14453572,
             "language": "Elixir",
-            "last_commit": "2026-08-20T18:45:29Z",
+            "last_commit": "2026-08-25T21:35:04Z",
             "owner": "ericmj",
             "repo": "decimal",
             "stars": 478
@@ -16878,7 +16878,7 @@
             "last_commit": "2024-07-26T09:01:41Z",
             "owner": "zyro",
             "repo": "elixir-uuid",
-            "stars": 369
+            "stars": 368
           }
         },
         {
@@ -17133,7 +17133,7 @@
             "last_commit": "2025-04-09T10:46:21Z",
             "owner": "gpedic",
             "repo": "ex_shortuuid",
-            "stars": 54
+            "stars": 53
           }
         },
         {
@@ -17528,21 +17528,6 @@
         },
         {
           "node_type": "item",
-          "title": "kitsune",
-          "description": "An Elixir library for transforming the representation of data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 28315377,
-            "language": "CSS",
-            "last_commit": "2014-12-23T10:38:00Z",
-            "owner": "edubkendo",
-            "repo": "kitsune",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ex_pression",
           "description": "Evaluate user input expressions.",
           "children": [],
@@ -17553,6 +17538,21 @@
             "last_commit": "2026-05-17T21:45:24Z",
             "owner": "balance-platform",
             "repo": "ex_pression",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kitsune",
+          "description": "An Elixir library for transforming the representation of data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28315377,
+            "language": "CSS",
+            "last_commit": "2014-12-23T10:38:00Z",
+            "owner": "edubkendo",
+            "repo": "kitsune",
             "stars": 11
           }
         },
@@ -18024,7 +18024,7 @@
             "last_commit": "2024-06-26T22:12:10Z",
             "owner": "BlakeWilliams",
             "repo": "Elixir-Slack",
-            "stars": 683
+            "stars": 682
           }
         },
         {
@@ -20920,7 +20920,7 @@
                 "archived": false,
                 "id": 22329177,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T12:13:31Z",
+                "last_commit": "2026-08-25T15:24:00Z",
                 "owner": "KronicDeth",
                 "repo": "intellij-elixir",
                 "stars": 1899
@@ -21428,10 +21428,10 @@
                 "archived": false,
                 "id": 1234714,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T15:59:36Z",
+                "last_commit": "2026-08-25T21:55:11Z",
                 "owner": "elixir-lang",
                 "repo": "elixir",
-                "stars": 26608
+                "stars": 26610
               }
             },
             {
@@ -21443,10 +21443,10 @@
                 "archived": false,
                 "id": 1234714,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T15:59:36Z",
+                "last_commit": "2026-08-25T21:55:11Z",
                 "owner": "elixir-lang",
                 "repo": "elixir",
-                "stars": 26608
+                "stars": 26610
               }
             },
             {
@@ -21474,7 +21474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:57.569Z",
+    "last_updated": "2026-08-26T04:51:30.995Z",
     "original_repository": "h4cc/awesome-elixir",
     "original_repository_id": 21402627,
     "original_repository_sha": "6f1dc0b67ed44e405a6d31303ba42f4f47cbe0d9",
