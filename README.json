@@ -1905,7 +1905,7 @@
             "archived": false,
             "id": 483460745,
             "language": "Elixir",
-            "last_commit": "2026-08-27T10:49:10Z",
+            "last_commit": "2026-08-27T14:10:53Z",
             "owner": "beaver-lodge",
             "repo": "beaver",
             "stars": 2
@@ -6321,7 +6321,7 @@
             "last_commit": "2025-09-23T14:43:16Z",
             "owner": "elixirkoans",
             "repo": "elixir-koans",
-            "stars": 2402
+            "stars": 2403
           }
         },
         {
@@ -7062,7 +7062,7 @@
             "archived": false,
             "id": 14421569,
             "language": "Elixir",
-            "last_commit": "2026-08-27T10:55:10Z",
+            "last_commit": "2026-08-27T12:31:12Z",
             "owner": "elixir-plug",
             "repo": "plug",
             "stars": 3013
@@ -8268,10 +8268,10 @@
             "archived": false,
             "id": 16072585,
             "language": "Elixir",
-            "last_commit": "2026-08-27T08:50:41Z",
+            "last_commit": "2026-08-27T14:44:24Z",
             "owner": "phoenixframework",
             "repo": "phoenix",
-            "stars": 23125
+            "stars": 23127
           }
         },
         {
@@ -8298,7 +8298,7 @@
             "archived": false,
             "id": 281977300,
             "language": "Elixir",
-            "last_commit": "2026-08-27T01:03:27Z",
+            "last_commit": "2026-08-27T14:40:34Z",
             "owner": "bartblast",
             "repo": "hologram",
             "stars": 1485
@@ -10191,7 +10191,7 @@
             "archived": false,
             "id": 24107016,
             "language": "Elixir",
-            "last_commit": "2026-08-20T17:13:28Z",
+            "last_commit": "2026-08-27T14:39:51Z",
             "owner": "joken-elixir",
             "repo": "joken",
             "stars": 814
@@ -12390,7 +12390,7 @@
             "archived": false,
             "id": 257787813,
             "language": "Elixir",
-            "last_commit": "2026-08-27T11:29:45Z",
+            "last_commit": "2026-08-27T12:33:30Z",
             "owner": "firezone",
             "repo": "firezone",
             "stars": 9043
@@ -14340,7 +14340,7 @@
             "archived": false,
             "id": 63799837,
             "language": "Elixir",
-            "last_commit": "2026-08-19T13:40:20Z",
+            "last_commit": "2026-08-27T13:48:53Z",
             "owner": "elixir-grpc",
             "repo": "grpc",
             "stars": 1522
@@ -14400,7 +14400,7 @@
             "archived": false,
             "id": 82186020,
             "language": "Elixir",
-            "last_commit": "2026-08-26T18:49:54Z",
+            "last_commit": "2026-08-27T15:08:47Z",
             "owner": "ahamez",
             "repo": "protox",
             "stars": 295
@@ -16830,7 +16830,7 @@
             "archived": false,
             "id": 41432184,
             "language": "Elixir",
-            "last_commit": "2026-08-01T20:55:49Z",
+            "last_commit": "2026-08-27T11:42:14Z",
             "owner": "elixirmoney",
             "repo": "money",
             "stars": 846
@@ -20920,7 +20920,7 @@
                 "archived": false,
                 "id": 22329177,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T21:49:34Z",
+                "last_commit": "2026-08-27T12:23:34Z",
                 "owner": "KronicDeth",
                 "repo": "intellij-elixir",
                 "stars": 1899
@@ -21230,7 +21230,7 @@
                 "last_commit": "2022-11-17T23:40:26Z",
                 "owner": "drobakowski",
                 "repo": "awesome-erlang",
-                "stars": 1708
+                "stars": 1707
               }
             },
             {
@@ -21474,7 +21474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:43.969Z",
+    "last_updated": "2026-08-27T15:08:36.039Z",
     "original_repository_info": {
       "archived": false,
       "id": 21402627,
