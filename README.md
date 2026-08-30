@@ -1,6 +1,6 @@
 # Awesome Elixir with stars
 
-A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13.
+A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,675 | 🐛 85 | 📅 2026-07-13.
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
 
@@ -241,9 +241,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *When your code becomes smarter than you.*
 
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,998 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
-* [Nx](https://github.com/elixir-nx/nx) ⭐ 2,901 | 🐛 5 | 🌐 Elixir | 📅 2026-08-18 - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
-* [Jido](https://github.com/agentjido/jido) ⭐ 1,825 | 🐛 5 | 🌐 Elixir | 📅 2026-08-28 - Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
-* [Axon](https://github.com/elixir-nx/axon) ⭐ 1,688 | 🐛 30 | 🌐 Elixir | 📅 2026-08-23 - Nx-powered Neural Networks.
+* [Nx](https://github.com/elixir-nx/nx) ⭐ 2,901 | 🐛 7 | 🌐 Elixir | 📅 2026-08-18 - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
+* [Jido](https://github.com/agentjido/jido) ⭐ 1,826 | 🐛 8 | 🌐 Elixir | 📅 2026-08-29 - Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+* [Axon](https://github.com/elixir-nx/axon) ⭐ 1,688 | 🐛 27 | 🌐 Elixir | 📅 2026-08-29 - Nx-powered Neural Networks.
 * [ReqLLM](https://github.com/agentjido/req_llm) ⭐ 568 | 🐛 1 | 🌐 Elixir | 📅 2026-08-28 - LLM Client supporting over 100+ LLM Providers and Models
 * [simple\_bayes](https://github.com/fredwu/simple_bayes) ⭐ 395 | 🐛 1 | 🌐 Elixir | 📅 2017-09-25 - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [AshAI](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 13 | 🌐 Elixir | 📅 2026-08-21 - AI and LLM toolkit for Ash applications. MCP server, MCP dev tools, vector embeddings, chat interfaces, and more.
@@ -251,7 +251,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [GenAI](https://github.com/noizu-labs-ml/genai) ⭐ 33 | 🐛 1 | 🌐 Elixir | 📅 2026-08-26 - An extensible Generative AI Completion API Wrapper with basic chat completion with tool use support provided for Gemini, Anthropic, OpenAI, and Mistral models. ([Docs](https://hexdocs.pm/genai/GenAI.html)).
 * [ExLLama](https://github.com/noizu-labs-ml/ex_llama) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-07-27 - LlamaCpp Nif Extensions for Elixir/Erlang. ([Docs](https://hexdocs.pm/ex_llama/ExLLama.html)).
 * [Noizu-OpenAi](https://github.com/noizu-labs/elixir-openai) ⭐ 7 | 🐛 0 | 🌐 Elixir | 📅 2023-12-26 - An Elixir Api for the OpenAI Library. ([Docs](https://hexdocs.pm/noizu_labs_open_ai/api-reference.html)).
-* [Beaver](https://github.com/beaver-lodge/beaver) ⭐ 3 | 🐛 3 | 🌐 Elixir | 📅 2026-08-29 - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
+* [Beaver](https://github.com/beaver-lodge/beaver) ⭐ 3 | 🐛 13 | 🌐 Elixir | 📅 2026-08-30 - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 * [Weaviate](https://github.com/noizu-labs-ml/elixir-weaviate) ⭐ 3 | 🐛 0 | 🌐 Elixir | 📅 2026-07-27 - Weaviate client and macros for declaring records. ([Docs](https://hexdocs.pm/noizu_weaviate/api-reference.html)).
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
@@ -437,7 +437,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [nodefinder](https://github.com/okeuday/nodefinder) ⭐ 59 | 🐛 0 | 🌐 Erlang | 📅 2024-02-15 - Strategies for automatic node discovery in Erlang.
 * [Kubex](https://github.com/ingerslevio/kubex) ⭐ 39 | 🐛 1 | 🌐 Elixir | 📅 2015-08-03 - Kubernetes client and integration for Elixir, written in pure Elixir.
 * [skycluster](https://github.com/Nebo15/skycluster) ⭐ 18 | 🐛 3 | 🌐 Elixir | 📅 2017-07-03 - Automatic Erlang cluster formation, messaging and management for Elixir/Erlang applications. Integrated with Kubernetes.
-* [Kubereq](https://github.com/mruoss/kubereq) ⭐ 12 | 🐛 2 | 🌐 Elixir | 📅 2026-08-28 - Kubernetes Client for Elixir based on Req.
+* [Kubereq](https://github.com/mruoss/kubereq) ⭐ 12 | 🐛 1 | 🌐 Elixir | 📅 2026-08-29 - Kubernetes Client for Elixir based on Req.
 * [fleet\_api](https://github.com/jordan0day/fleet-api) ⭐ 9 | 🐛 0 | 🌐 Elixir | 📅 2015-09-03 - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 * [ex\_riak\_cs](https://github.com/ayrat555/ex_riak_cs) ⭐ 5 | 🐛 4 | 🌐 Elixir | 📅 2018-09-02 - Riak CS API client.
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) ⭐ 3 | 🐛 0 | 🌐 Elixir | 📅 2020-07-10 - Elixir Wrapper for Leaseweb infrastructure.
@@ -570,8 +570,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Libraries and tools for debugging code and applications.*
 
-* [observer\_cli](https://github.com/zhongwencool/observer_cli) ⭐ 1,528 | 🐛 0 | 🌐 Erlang | 📅 2026-07-14 - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
-* [visualixir](https://github.com/koudelka/visualixir) ⭐ 1,326 | 🐛 22 | 🌐 CSS | 📅 2022-12-09 - A process visualizer for remote BEAM nodes.
+* [observer\_cli](https://github.com/zhongwencool/observer_cli) ⭐ 1,529 | 🐛 0 | 🌐 Erlang | 📅 2026-07-14 - Visualize Elixir & Erlang nodes on the command line, it aims to help developers debug production systems.
+* [visualixir](https://github.com/koudelka/visualixir) ⭐ 1,327 | 🐛 22 | 🌐 CSS | 📅 2022-12-09 - A process visualizer for remote BEAM nodes.
 * [eper](https://github.com/massemanet/eper) ⭐ 440 | 🐛 5 | 🌐 Erlang | 📅 2018-07-06 - Erlang performance and debugging tools.
 * [eflame](https://github.com/proger/eflame) ⭐ 429 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - Flame Graph profiler for Erlang.
 * [ex\_debug\_toolbar](https://github.com/kagux/ex_debug_toolbar) ⭐ 406 | 🐛 6 | 🌐 Elixir | 📅 2024-06-09 - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
@@ -620,7 +620,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Specialized computer languages for a particular application domain.*
 
-* [Absinthe Graphql](https://github.com/absinthe-graphql/absinthe) ⭐ 4,399 | 🐛 72 | 🌐 Elixir | 📅 2026-07-14 - Fully featured GraphQL library.
+* [Absinthe Graphql](https://github.com/absinthe-graphql/absinthe) ⭐ 4,399 | 🐛 73 | 🌐 Elixir | 📅 2026-07-14 - Fully featured GraphQL library.
 * [RDF.ex](https://github.com/marcelotto/rdf-ex) ⭐ 126 | 🐛 0 | 🌐 Elixir | 📅 2026-08-13 - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
 * [JSON-LD.ex](https://github.com/marcelotto/jsonld-ex) ⭐ 85 | 🐛 0 | 🌐 Elixir | 📅 2026-06-13 - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex](https://github.com/marcelotto/rdf-ex) ⭐ 126 | 🐛 0 | 🌐 Elixir | 📅 2026-08-13.
 * [SPARQL.ex](https://github.com/marcelotto/sparql-ex) ⭐ 45 | 🐛 1 | 🌐 Elixir | 📅 2026-06-21 - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
@@ -644,7 +644,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [gen\_smtp](https://github.com/Vagabond/gen_smtp) ⭐ 717 | 🐛 50 | 🌐 Erlang | 📅 2025-05-30 - A generic Erlang SMTP server and client that can be extended via callback modules.
 * [mail](https://github.com/DockYard/elixir-mail) ⭐ 494 | 🐛 9 | 🌐 Elixir | 📅 2026-03-05 - An RFC2822 implementation in Elixir, built for composability.
 * [mailman](https://github.com/kamilc/mailman) ⭐ 204 | 🐛 20 | 🌐 Elixir | 📅 2024-01-22 - Mailman provides a clean way of defining mailers in your Elixir applications.
-* [ravenx](https://github.com/acutario/ravenx) ⭐ 111 | 🐛 4 | 🌐 Elixir | 📅 2018-02-17 - Notification dispatch library for Elixir applications.
+* [ravenx](https://github.com/acutario/ravenx) ⭐ 110 | 🐛 4 | 🌐 Elixir | 📅 2018-02-17 - Notification dispatch library for Elixir applications.
 * [burnex](https://github.com/Betree/burnex) ⭐ 80 | 🐛 11 | 🌐 Elixir | 📅 2026-07-16 - Burner email (temporary address) detector.
 * [mailibex](https://github.com/awetzel/mailibex) ⭐ 66 | 🐛 8 | 🌐 Elixir | 📅 2025-11-13 - Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp.
 * [gmail](https://github.com/craigp/elixir-gmail) ⭐ 54 | 🐛 5 | 🌐 Elixir | 📅 2019-04-16 - A simple Gmail REST API client for Elixir.
@@ -692,10 +692,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Example code and stuff too funny or curious not to mention.*
 
-* [magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,092 | 🐛 9 | 🌐 Elixir | 📅 2024-01-19 - Web application that indexes all popular torrent sites, and saves it to the local database.
-* [changelog.com](https://github.com/thechangelog/changelog.com) ⭐ 2,768 | 🐛 8 | 🌐 Elixir | 📅 2026-06-21 - CMS that runs changelog.com built with Phoenix 1.4.
+* [magnetissimo](https://github.com/sergiotapia/magnetissimo) ⭐ 3,093 | 🐛 9 | 🌐 Elixir | 📅 2024-01-19 - Web application that indexes all popular torrent sites, and saves it to the local database.
+* [changelog.com](https://github.com/thechangelog/changelog.com) ⭐ 2,766 | 🐛 8 | 🌐 Elixir | 📅 2026-06-21 - CMS that runs changelog.com built with Phoenix 1.4.
 * [elixir\_koans](https://github.com/elixirkoans/elixir-koans) ⭐ 2,403 | 🐛 24 | 🌐 Elixir | 📅 2025-09-23 - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
-* [hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 22 | 🌐 Elixir | 📅 2026-08-29 - Source code for the hex package manager site built with Phoenix 1.3.
+* [hexpm](https://github.com/hexpm/hexpm) ⭐ 1,170 | 🐛 21 | 🌐 Elixir | 📅 2026-08-29 - Source code for the hex package manager site built with Phoenix 1.3.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) ⚠️ Archived - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 * [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example) ⭐ 820 | 🐛 2 | 🌐 Elixir | 📅 2026-06-13 - A step-by-step example/tutorial for building a Chat app in Phoenix for complete beginners. Covers testing, docs and deployment. Phoenix `1.5.3`.
 * [tilex](https://github.com/hashrocket/tilex) ⭐ 507 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - Source code for Hashrocket's TIL website built with Phoenix 1.3.
@@ -772,7 +772,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [plug](https://github.com/elixir-lang/plug) ⭐ 3,013 | 🐛 4 | 🌐 Elixir | 📅 2026-08-27 - A specification and conveniences for composable modules in between web applications.
 * [surface](https://github.com/msaraiva/surface) ⭐ 2,135 | 🐛 35 | 🌐 Elixir | 📅 2026-03-25 - A server-side rendering component library for Phoenix.
-* [commanded](https://github.com/slashdotdash/commanded) ⭐ 2,030 | 🐛 13 | 🌐 Elixir | 📅 2026-07-27 - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
+* [commanded](https://github.com/slashdotdash/commanded) ⭐ 2,031 | 🐛 13 | 🌐 Elixir | 📅 2026-07-27 - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
 * [ex\_admin](https://github.com/smpallen99/ex_admin) ⭐ 1,197 | 🐛 130 | 🌐 Elixir | 📅 2020-02-03 - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 * [torch](https://github.com/infinitered/torch) ⭐ 1,174 | 🐛 15 | 🌐 Elixir | 📅 2026-04-13 - Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable.
 * [phoenix\_storybook](https://github.com/phenixdigital/phoenix_storybook) ⭐ 868 | 🐛 14 | 🌐 Elixir | 📅 2026-08-28 - A pluggable storybook for your Phoenix components.
@@ -858,9 +858,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Web development frameworks.*
 
-* [phoenix](https://github.com/phoenixframework/phoenix) ⭐ 23,129 | 🐛 50 | 🌐 Elixir | 📅 2026-08-28 - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
+* [phoenix](https://github.com/phoenixframework/phoenix) ⭐ 23,130 | 🐛 50 | 🌐 Elixir | 📅 2026-08-28 - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [Ash Framework](https://github.com/ash-project/ash) ⭐ 2,481 | 🐛 112 | 🌐 Elixir | 📅 2026-08-28 - A declarative, resource-oriented application framework for Elixir.
-* [Hologram](https://github.com/bartblast/hologram) ⭐ 1,487 | 🐛 132 | 🌐 Elixir | 📅 2026-08-29 - Full stack Elixir web framework that intelligently transpiles Elixir client-side code to JavaScript.
+* [Hologram](https://github.com/bartblast/hologram) ⭐ 1,487 | 🐛 134 | 🌐 Elixir | 📅 2026-08-30 - Full stack Elixir web framework that intelligently transpiles Elixir client-side code to JavaScript.
 * [n2o](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - Distributed Application Server.
 * [Petal Components](https://github.com/petalframework/petal_components) ⭐ 1,051 | 🐛 8 | 🌐 Elixir | 📅 2026-08-29 - A set of HEEX components that makes it easy for Phoenix developers to build beautiful web apps.
 * [kitto](https://github.com/kittoframework/kitto) ⭐ 960 | 🐛 12 | 🌐 Elixir | 📅 2020-12-06 - A framework for interactive dashboards.
@@ -1008,7 +1008,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for collecting and exporting metrics.*
 
 * [wobserver](https://github.com/shinyscorpion/wobserver) ⭐ 926 | 🐛 9 | 🌐 Elixir | 📅 2020-06-06 - Web based metrics, monitoring, and observer.
-* [telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 917 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - Dynamic dispatching library for metrics and instrumentations.
+* [telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 919 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - Dynamic dispatching library for metrics and instrumentations.
 * [elixometer](https://github.com/pinterest/elixometer) ⭐ 825 | 🐛 11 | 🌐 Elixir | 📅 2023-07-10 - A light Elixir wrapper around exometer.
 * [prom\_ex](https://github.com/akoutmos/prom_ex) ⭐ 706 | 🐛 55 | 🌐 Elixir | 📅 2026-06-19 - Prometheus metrics and Grafana dashboards for all of your favorite Elixir libraries.
 * [exometer](https://github.com/Feuerlabs/exometer) ⭐ 528 | 🐛 16 | 🌐 Erlang | 📅 2019-06-14 - Basic measurement objects and probe behavior in Erlang.
@@ -1037,7 +1037,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [joken](https://github.com/bryanjos/joken) ⭐ 814 | 🐛 4 | 🌐 Elixir | 📅 2026-08-28 - Encodes and decodes JSON Web Tokens.
 * [jsx](https://github.com/talentdeficit/jsx) ⭐ 696 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An Erlang application for consuming, producing, and manipulating json.
 * [ja\_serializer](https://github.com/AgilionApps/ja_serializer) ⭐ 638 | 🐛 18 | 🌐 Elixir | 📅 2026-03-17 - JSONAPI.org Serialization in Elixir.
-* [jsonapi](https://github.com/jeregrine/jsonapi) ⭐ 510 | 🐛 5 | 🌐 Elixir | 📅 2026-08-25 - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+* [jsonapi](https://github.com/jeregrine/jsonapi) ⭐ 511 | 🐛 6 | 🌐 Elixir | 📅 2026-08-25 - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 * [jose](https://github.com/potatosalad/erlang-jose) ⭐ 337 | 🐛 44 | 🌐 Erlang | 📅 2025-11-20 - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 * [json](https://github.com/cblage/elixir-json) ⭐ 218 | 🐛 0 | 🌐 Elixir | 📅 2021-01-01 - Native JSON library for Elixir.
 * [json\_web\_token\_ex](https://github.com/garyf/json_web_token_ex) ⭐ 145 | 🐛 11 | 🌐 Elixir | 📅 2021-10-06 - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
@@ -1140,7 +1140,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [AtomVM](https://github.com/bettio/AtomVM) ⭐ 2,219 | 🐛 181 | 🌐 Erlang | 📅 2026-07-31 - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
 * [porcelain](https://github.com/alco/porcelain) ⭐ 958 | 🐛 31 | 🌐 Elixir | 📅 2021-03-23 - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
-* [hammer](https://github.com/ExHammer/hammer) ⭐ 920 | 🐛 3 | 🌐 Elixir | 📅 2026-08-29 - A rate-limiter with pluggable storage backends, including Redis.
+* [hammer](https://github.com/ExHammer/hammer) ⭐ 920 | 🐛 5 | 🌐 Elixir | 📅 2026-08-29 - A rate-limiter with pluggable storage backends, including Redis.
 * [cubdb](https://github.com/lucaong/cubdb) ⭐ 654 | 🐛 15 | 🌐 Elixir | 📅 2024-10-02 - CubDB is an embedded key-value database, written in the Elixir language. It runs locally, it is schema-less, and backed by a single file.
 * [ex\_rated](https://github.com/grempe/ex_rated) ⭐ 460 | 🐛 4 | 🌐 Elixir | 📅 2023-03-30 - Simple and flexible rate-limiting for API's or anything.
 * [AlloyCI](https://github.com/AlloyCI/alloy_ci) ⭐ 290 | 🐛 44 | 🌐 Elixir | 📅 2022-12-09 - AlloyCI is a Continuous Integration, Deployment, and Delivery coordinator, written in Elixir, that takes advantage of the GitLab CI Runner, and its capabilities as executor, to prepare and run your pipelines.
@@ -1223,7 +1223,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Libraries and tools for using network related stuff.*
 
-* [Firezone](https://github.com/firezone/firezone) ⭐ 9,044 | 🐛 407 | 🌐 Elixir | 📅 2026-08-29 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+* [Firezone](https://github.com/firezone/firezone) ⭐ 9,045 | 🐛 440 | 🌐 Elixir | 📅 2026-08-30 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 * [socket](https://github.com/meh/elixir-socket) ⭐ 692 | 🐛 32 | 🌐 Elixir | 📅 2023-02-22 - Socket wrapping for Elixir.
 * [sshkit](https://github.com/bitcrowd/sshkit.ex) ⭐ 174 | 🐛 13 | 🌐 Elixir | 📅 2025-08-25 - An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 * [reagent](https://github.com/meh/reagent) ⭐ 92 | 🐛 2 | 🌐 Elixir | 📅 2017-07-06 - reagent is a socket acceptor pool for Elixir.
@@ -1255,7 +1255,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
-* [ecto](https://github.com/elixir-ecto/ecto) ⭐ 6,487 | 🐛 13 | 🌐 Elixir | 📅 2026-08-27 - A database wrapper and language integrated query for Elixir.
+* [ecto](https://github.com/elixir-ecto/ecto) ⭐ 6,488 | 🐛 12 | 🌐 Elixir | 📅 2026-08-29 - A database wrapper and language integrated query for Elixir.
 * [postgrex](https://github.com/elixir-ecto/postgrex) ⭐ 1,215 | 🐛 4 | 🌐 Elixir | 📅 2026-08-07 - PostgreSQL driver for Elixir.
 * [eventstore](https://github.com/slashdotdash/eventstore) ⭐ 1,162 | 🐛 28 | 🌐 Elixir | 📅 2026-05-04 - A CQRS EventStore using Postgres for persistence, written in Elixir.
 * [redix](https://github.com/whatyouhide/redix) ⭐ 1,140 | 🐛 0 | 🌐 Elixir | 📅 2026-08-25 - Superfast, pipelined, resilient Redis driver for Elixir.
@@ -1389,7 +1389,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) ⭐ 482 | 🐛 19 | 🌐 Elixir | 📅 2024-07-04 - Protocol Buffers in Elixir, made easy.
 * [riffed](https://github.com/pinterest/riffed) ⭐ 307 | 🐛 9 | 🌐 Elixir | 📅 2020-06-17 - Provides idiomatic Elixir bindings for Apache Thrift.
 * [msgpax](https://github.com/lexmag/msgpax) ⭐ 300 | 🐛 8 | 🌐 Elixir | 📅 2023-08-25 - MessagePack (de)serializer implementation for Elixir.
-* [protox](https://github.com/ahamez/protox) ⭐ 295 | 🐛 0 | 🌐 Elixir | 📅 2026-08-28 - Elixir implementation for Protocol Buffers.
+* [protox](https://github.com/ahamez/protox) ⭐ 295 | 🐛 0 | 🌐 Elixir | 📅 2026-08-30 - Elixir implementation for Protocol Buffers.
 * [Sippet](https://github.com/balena/elixir-sippet) ⭐ 84 | 🐛 4 | 🌐 Elixir | 📅 2024-03-01 - An Elixir library designed to be used as SIP protocol middleware.
 * [message\_pack](https://github.com/mururu/msgpack-elixir) ⭐ 71 | 🐛 2 | 🌐 Elixir | 📅 2017-06-07 - MessagePack Implementation for Elixir.
 * [ex\_hl7](https://github.com/jcomellas/ex_hl7) ⭐ 41 | 🐛 1 | 🌐 Elixir | 📅 2019-12-31 - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
@@ -1407,7 +1407,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exq](https://github.com/akira/exq) ⭐ 1,531 | 🐛 27 | 🌐 Elixir | 📅 2026-08-03 - Job processing library for Elixir - compatible with Resque/Sidekiq.
 * [verk](https://github.com/edgurgel/verk) ⭐ 729 | 🐛 12 | 🌐 Elixir | 📅 2021-09-14 - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 * [honeydew](https://github.com/koudelka/honeydew) ⭐ 725 | 🐛 16 | 🌐 Elixir | 📅 2024-01-10 - Honeydew is a worker pool library for Elixir.
-* [amqp](https://github.com/pma/amqp) ⭐ 689 | 🐛 3 | 🌐 Elixir | 📅 2026-06-14 - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+* [amqp](https://github.com/pma/amqp) ⭐ 689 | 🐛 0 | 🌐 Elixir | 📅 2026-08-30 - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 * [que](https://github.com/sheharyarn/que) ⭐ 687 | 🐛 3 | 🌐 Elixir | 📅 2026-06-11 - Simple Background Job Processing with Mnesia.
 * [Rihanna](https://github.com/samphilipd/rihanna) ⭐ 455 | 🐛 13 | 🌐 Elixir | 📅 2023-05-10 - High performance postgres-backed job queue for Elixir.
 * [ecto\_job](https://github.com/mbuhot/ecto_job) ⭐ 276 | 🐛 6 | 🌐 Elixir | 📅 2021-12-24 - A transactional job queue built with Ecto, PostgreSQL and GenStage.
@@ -1542,10 +1542,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for testing codebases and generating test data.*
 
 * [ex\_machina](https://github.com/thoughtbot/ex_machina) ⭐ 2,057 | 🐛 1 | 🌐 Elixir | 📅 2026-08-25 - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
-* [wallaby](https://github.com/keathley/wallaby) ⭐ 1,802 | 🐛 54 | 🌐 Elixir | 📅 2026-07-21 - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+* [wallaby](https://github.com/keathley/wallaby) ⭐ 1,801 | 🐛 54 | 🌐 Elixir | 📅 2026-07-21 - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 * [mox](https://github.com/dashbitco/mox) ⭐ 1,401 | 🐛 5 | 🌐 Elixir | 📅 2026-08-27 - Mocks and explicit contracts for Elixir.
 * [hound](https://github.com/HashNuke/hound) ⭐ 1,369 | 🐛 86 | 🌐 Elixir | 📅 2024-07-09 - Elixir library for writing integration tests and browser automation.
-* [faker](https://github.com/igas/faker) ⭐ 1,196 | 🐛 56 | 🌐 Elixir | 📅 2026-08-28 - Faker is a pure Elixir library for generating fake data.
+* [faker](https://github.com/igas/faker) ⭐ 1,196 | 🐛 54 | 🌐 Elixir | 📅 2026-08-29 - Faker is a pure Elixir library for generating fake data.
 * [bypass](https://github.com/pspdfkit-labs/bypass) ⭐ 1,000 | 🐛 27 | 🌐 Elixir | 📅 2025-07-10 - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 * [mix\_test\_watch](https://github.com/lpil/mix-test.watch) ⭐ 956 | 🐛 17 | 🌐 Elixir | 📅 2025-12-19 - Automatically run your Elixir project's tests each time you save a file.
 * [stream\_data](https://github.com/whatyouhide/stream_data) ⭐ 946 | 🐛 3 | 🌐 Elixir | 📅 2026-07-14 - A pure-Elixir data generation and property-based testing library.
@@ -1557,7 +1557,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [excheck](https://github.com/parroty/excheck) ⭐ 313 | 🐛 9 | 🌐 Elixir | 📅 2018-09-24 - Property-based testing library for Elixir (QuickCheck style).
 * [white\_bread](https://github.com/meadsteve/white-bread) ⭐ 230 | 🐛 16 | 🌐 Elixir | 📅 2020-11-04 - Story based BDD in Elixir using the gherkin syntax.
 * [power\_assert](https://github.com/ma2gedev/power_assert_ex) ⭐ 215 | 🐛 1 | 🌐 Elixir | 📅 2023-01-04 - Power Assert in Elixir. Shows evaluation results each expression.
-* [patch](https://github.com/ihumanable/patch) ⭐ 214 | 🐛 12 | 🌐 Elixir | 📅 2025-06-03 - Ergonomic Mocking for Elixir.
+* [patch](https://github.com/ihumanable/patch) ⭐ 214 | 🐛 13 | 🌐 Elixir | 📅 2025-06-03 - Ergonomic Mocking for Elixir.
 * [amrita](https://github.com/josephwilk/amrita) ⭐ 196 | 🐛 30 | 🌐 Elixir | 📅 2017-07-07 - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [blacksmith](https://github.com/batate/blacksmith) ⭐ 195 | 🐛 5 | 🌐 Elixir | 📅 2023-01-10 - Data generation framework for Elixir.
 * [ponos](https://github.com/klarna/ponos) ⭐ 164 | 🐛 2 | 🌐 Erlang | 📅 2021-10-29 - Ponos is an Erlang application that exposes a flexible load generator API.
@@ -1611,7 +1611,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for parsing and manipulating text and numbers.*
 
 * [money](https://github.com/liuggio/money) ⭐ 846 | 🐛 11 | 🌐 Elixir | 📅 2026-08-27 - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
-* [decimal](https://github.com/ericmj/decimal) ⭐ 478 | 🐛 2 | 🌐 Elixir | 📅 2026-08-26 - Arbitrary precision decimal arithmetic for Elixir.
+* [decimal](https://github.com/ericmj/decimal) ⭐ 478 | 🐛 0 | 🌐 Elixir | 📅 2026-08-29 - Arbitrary precision decimal arithmetic for Elixir.
 * [inflex](https://github.com/nurugger07/inflex) ⭐ 384 | 🐛 11 | 🌐 Elixir | 📅 2024-04-12 - An Inflector library for Elixir.
 * [uuid](https://github.com/zyro/elixir-uuid) ⭐ 368 | 🐛 23 | 🌐 Elixir | 📅 2024-07-26 - UUID generator and utilities for Elixir.
 * [hashids](https://github.com/alco/hashids-elixir) ⭐ 282 | 🐛 3 | 🌐 Elixir | 📅 2024-03-13 - Hashids lets you obfuscate numerical identifiers via reversible mapping.
@@ -1694,10 +1694,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for accessing third party APIs.*
 
 * [google-cloud](https://github.com/GoogleCloudPlatform/elixir-google-api) ⚠️ Archived - This repository contains all the client libraries to interact with Google APIs.
-* [stripity\_stripe](https://github.com/robconery/stripity-stripe) ⭐ 1,075 | 🐛 2 | 🌐 Elixir | 📅 2026-08-24 - An Elixir Library for [Stripe](https://stripe.com/).
+* [stripity\_stripe](https://github.com/robconery/stripity-stripe) ⭐ 1,076 | 🐛 2 | 🌐 Elixir | 📅 2026-08-24 - An Elixir Library for [Stripe](https://stripe.com/).
 * [slack](https://github.com/BlakeWilliams/Elixir-Slack) ⭐ 682 | 🐛 17 | 🌐 Elixir | 📅 2024-06-26 - Slack real time messaging client in Elixir.
 * [pigeon](https://github.com/codedge-llc/pigeon) ⭐ 679 | 🐛 46 | 🌐 Elixir | 📅 2025-05-25 - HTTP2-compliant wrapper for sending iOS and Android push notifications.
-* [gringotts](https://github.com/aviabird/gringotts) ⭐ 502 | 🐛 39 | 🌐 Elixir | 📅 2025-04-18 - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant](https://github.com/activemerchant/active_merchant) ⭐ 4,600 | 🐛 4 | 🌐 Ruby | 📅 2025-11-04 from the Ruby world.
+* [gringotts](https://github.com/aviabird/gringotts) ⭐ 502 | 🐛 39 | 🌐 Elixir | 📅 2025-04-18 - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant](https://github.com/activemerchant/active_merchant) ⭐ 4,601 | 🐛 4 | 🌐 Ruby | 📅 2025-11-04 from the Ruby world.
 * [tentacat](https://github.com/edgurgel/tentacat) ⭐ 451 | 🐛 21 | 🌐 Elixir | 📅 2024-12-20 - Simple Elixir wrapper for the GitHub API.
 * [extwitter](https://github.com/parroty/extwitter) ⭐ 411 | 🐛 22 | 🌐 Elixir | 📅 2024-12-25 - Twitter client library for Elixir.
 * [ethereumex](https://github.com/exthereum/ethereumex) ⭐ 393 | 🐛 7 | 🌐 Elixir | 📅 2026-05-26 - Elixir JSON-RPC client for the Ethereum blockchain.
@@ -1895,7 +1895,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for running WebAssembly (WASM) in Elixir or running Elixir on WebAssembly.*
 
 * [lumen](https://github.com/lumen/lumen) ⚠️ Archived - An alternative BEAM implementation, designed for WebAssembly.
-* [wasmex](https://github.com/tessi/wasmex/) ⭐ 695 | 🐛 6 | 🌐 Rust | 📅 2026-08-28 - Execute WebAssembly / WASM binaries from Elixir.
+* [wasmex](https://github.com/tessi/wasmex/) ⭐ 696 | 🐛 6 | 🌐 Rust | 📅 2026-08-28 - Execute WebAssembly / WASM binaries from Elixir.
 
 ## XML
 
@@ -1982,7 +1982,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 *Editors and IDEs useable for Elixir/Erlang*
 
-* [Jetbrains](https://github.com/KronicDeth/intellij-elixir) ⭐ 1,899 | 🐛 617 | 🌐 Kotlin | 📅 2026-08-29 - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
+* [Jetbrains](https://github.com/KronicDeth/intellij-elixir) ⭐ 1,899 | 🐛 582 | 🌐 Kotlin | 📅 2026-08-30 - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 * [vim-elixir](https://github.com/elixir-lang/vim-elixir) ⭐ 1,325 | 🐛 38 | 🌐 Ruby | 📅 2025-08-02 - Vim configuration files for Elixir.
 * [Alchemist](https://github.com/tonini/alchemist.el) ⭐ 914 | 🐛 87 | 🌐 Emacs Lisp | 📅 2022-02-25 - Elixir Tooling Integration Into Emacs.
 * [elixir-ls](https://github.com/JakeBecker/elixir-ls) ⭐ 845 | 🐛 1 | 🌐 Elixir | 📅 2020-04-16 - A frontend-independent IDE "smartness" server for Elixir. Implements the JSON-based "Language Server Protocol" standard and provides debugger support via VS Code's debugger protocol.
@@ -2015,7 +2015,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 ## Other Awesome Lists
 
-*Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists) ⭐ 11,442 | 🐛 23 | 📅 2026-03-23 or [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness) ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.*
+*Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists) ⭐ 11,443 | 🐛 24 | 📅 2026-03-23 or [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness) ⭐ 33,638 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.*
 
 * [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) ⭐ 1,707 | 🐛 23 | 📅 2022-11-17 - A curated list of awesome Erlang libraries, resources and shiny things.
 * [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks) ⭐ 1,156 | 🐛 0 | 📅 2021-07-31 - A collection of links for Erlang developers.
@@ -2078,8 +2078,8 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 *Useful Elixir-related websites.*
 
-* [Elixir Github Repository](https://github.com/elixir-lang/elixir) ⭐ 26,617 | 🐛 32 | 🌐 Elixir | 📅 2026-08-28 - The project repository.
-* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) ⭐ 26,617 | 🐛 32 | 🌐 Elixir | 📅 2026-08-28 - The project's wiki, containing much useful information.
+* [Elixir Github Repository](https://github.com/elixir-lang/elixir) ⭐ 26,617 | 🐛 34 | 🌐 Elixir | 📅 2026-08-29 - The project repository.
+* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) ⭐ 26,617 | 🐛 34 | 🌐 Elixir | 📅 2026-08-29 - The project's wiki, containing much useful information.
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) ⭐ 3,067 | 🐛 0 | 🌐 Elixir | 📅 2022-04-13 - A walk through the Elixir language in 30 exercises.
 * [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 * [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
@@ -2100,4 +2100,4 @@ Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
