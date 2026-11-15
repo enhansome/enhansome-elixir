@@ -215,7 +215,7 @@
             "open_issues": 13,
             "owner": "joaomdmoura",
             "repo": "machinery",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "dashboard",
               "ecto",
@@ -2784,7 +2784,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3001,
+            "stars": 3002,
             "topics": [
               "c",
               "csharp",
@@ -2850,11 +2850,11 @@
             "id": 903999320,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T01:26:44Z",
+            "last_commit": "2026-11-14T22:10:51Z",
             "open_issues": 1,
             "owner": "agentjido",
             "repo": "jido",
-            "stars": 1914,
+            "stars": 1917,
             "topics": [
               "agent-framework",
               "ai-agents",
@@ -2908,8 +2908,8 @@
             "id": 1051339863,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T22:45:01Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-14T13:10:25Z",
+            "open_issues": 4,
             "owner": "agentjido",
             "repo": "req_llm",
             "stars": 608,
@@ -2963,7 +2963,7 @@
             "language": "Elixir",
             "license": null,
             "last_commit": "2026-11-12T19:38:21Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "ash-project",
             "repo": "ash_ai",
             "stars": 194,
@@ -3050,12 +3050,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MLIR Toolkit in Elixir and Zig.",
+            "description": "MLIR toolkit for Elixir with Zig native bindings",
             "homepage": null,
             "id": 483460745,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-14T01:58:20Z",
+            "last_commit": "2026-11-15T10:22:24Z",
             "open_issues": 0,
             "owner": "beaver-lodge",
             "repo": "beaver",
@@ -3258,7 +3258,7 @@
             "open_issues": 1,
             "owner": "ueberauth",
             "repo": "guardian",
-            "stars": 3513,
+            "stars": 3514,
             "topics": [
               "authentication",
               "elixir",
@@ -3418,7 +3418,7 @@
             "open_issues": 1,
             "owner": "ueberauth",
             "repo": "guardian_db",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "database",
               "guardian",
@@ -5287,7 +5287,7 @@
             "open_issues": 14,
             "owner": "whitfin",
             "repo": "cachex",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "caching",
               "caching-library",
@@ -5543,7 +5543,7 @@
             "open_issues": 14,
             "owner": "hedwig-im",
             "repo": "hedwig",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "bot",
               "elixir",
@@ -5786,7 +5786,7 @@
             "open_issues": 11,
             "owner": "bitwalker",
             "repo": "libcluster",
-            "stars": 2161,
+            "stars": 2160,
             "topics": [
               "clustering",
               "elixir",
@@ -5853,7 +5853,7 @@
             "open_issues": 14,
             "owner": "aws-beam",
             "repo": "aws-elixir",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -7287,7 +7287,7 @@
             "open_issues": 5,
             "owner": "yuce",
             "repo": "pot",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "2fa",
               "authenticator",
@@ -9366,7 +9366,7 @@
             "open_issues": 2,
             "owner": "beam-community",
             "repo": "bamboo",
-            "stars": 1960,
+            "stars": 1961,
             "topics": [
               "bamboo",
               "elixir",
@@ -9388,7 +9388,7 @@
             "id": 53172916,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-13T10:02:50Z",
+            "last_commit": "2026-11-15T06:06:44Z",
             "open_issues": 14,
             "owner": "swoosh",
             "repo": "swoosh",
@@ -10003,10 +10003,10 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-10-18T22:31:27Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sergiotapia",
             "repo": "magnetissimo",
-            "stars": 3109,
+            "stars": 3108,
             "topics": [
               "bittorrent",
               "p2p",
@@ -10086,7 +10086,7 @@
             "open_issues": 12,
             "owner": "hexpm",
             "repo": "hexpm",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "elixir",
               "hacktoberfest",
@@ -10342,8 +10342,8 @@
             "id": 37223259,
             "language": "Elixir",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T17:03:21Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-14T21:30:36Z",
+            "open_issues": 3,
             "owner": "dwyl",
             "repo": "phoenix-todo-list-tutorial",
             "stars": 207,
@@ -11232,7 +11232,7 @@
             "open_issues": 6,
             "owner": "elixir-plug",
             "repo": "plug",
-            "stars": 3021,
+            "stars": 3020,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -11271,10 +11271,10 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-07-27T16:39:45Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "commanded",
             "repo": "commanded",
-            "stars": 2034,
+            "stars": 2033,
             "topics": [
               "commanded",
               "cqrs",
@@ -11378,8 +11378,8 @@
             "id": 728320777,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-13T13:39:27Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-15T07:55:19Z",
+            "open_issues": 36,
             "owner": "naymspace",
             "repo": "backpex",
             "stars": 847,
@@ -13110,7 +13110,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-11-11T18:35:52Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "phoenixframework",
             "repo": "phoenix",
             "stars": 23218,
@@ -13136,11 +13136,11 @@
             "id": 212487543,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-11-14T00:22:28Z",
+            "last_commit": "2026-11-14T16:07:21Z",
             "open_issues": 108,
             "owner": "ash-project",
             "repo": "ash",
-            "stars": 2563,
+            "stars": 2565,
             "topics": [
               "ash",
               "dsl",
@@ -13162,8 +13162,8 @@
             "id": 281977300,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T02:06:42Z",
-            "open_issues": 222,
+            "last_commit": "2026-11-15T03:16:05Z",
+            "open_issues": 245,
             "owner": "bartblast",
             "repo": "hologram",
             "stars": 1577,
@@ -13252,7 +13252,7 @@
             "open_issues": 12,
             "owner": "kittoframework",
             "repo": "kitto",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "dashboard",
               "elixir",
@@ -14100,11 +14100,11 @@
             "id": 50259821,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-11-14T01:32:11Z",
+            "last_commit": "2026-11-15T02:58:18Z",
             "open_issues": 20,
             "owner": "nerves-project",
             "repo": "nerves",
-            "stars": 2508,
+            "stars": 2514,
             "topics": [
               "elixir",
               "embedded",
@@ -14405,11 +14405,11 @@
             "id": 32357916,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-08T02:24:11Z",
+            "last_commit": "2026-11-15T01:47:57Z",
             "open_issues": 5,
             "owner": "elixir-tesla",
             "repo": "tesla",
-            "stars": 2077,
+            "stars": 2078,
             "topics": [
               "elixir",
               "hackney",
@@ -14455,7 +14455,7 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T16:52:08Z",
+            "last_commit": "2026-11-15T00:34:49Z",
             "open_issues": 13,
             "owner": "benoitc",
             "repo": "hackney",
@@ -14484,7 +14484,7 @@
             "open_issues": 30,
             "owner": "sneako",
             "repo": "finch",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "elixir",
               "http-client"
@@ -14732,7 +14732,7 @@
             "open_issues": 5,
             "owner": "Anonyfox",
             "repo": "elixir-scrape",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "data-science",
               "elixir",
@@ -15776,7 +15776,7 @@
             "open_issues": 59,
             "owner": "akoutmos",
             "repo": "prom_ex",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "beam",
               "elixir",
@@ -15936,7 +15936,7 @@
             "open_issues": 17,
             "owner": "mneudert",
             "repo": "instream",
-            "stars": 228,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -16325,7 +16325,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-11-03T12:01:58Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "beam-community",
             "repo": "jsonapi",
             "stars": 511,
@@ -18111,7 +18111,7 @@
             "open_issues": 4,
             "owner": "grempe",
             "repo": "ex_rated",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "api",
               "bucket",
@@ -19434,8 +19434,8 @@
             "id": 40983173,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T19:43:31Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-15T10:33:19Z",
+            "open_issues": 57,
             "owner": "rusterlium",
             "repo": "rustler",
             "stars": 4894,
@@ -19643,8 +19643,8 @@
             "id": 257787813,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T07:30:49Z",
-            "open_issues": 422,
+            "last_commit": "2026-11-15T09:20:11Z",
+            "open_issues": 451,
             "owner": "firezone",
             "repo": "firezone",
             "stars": 9184,
@@ -20153,11 +20153,11 @@
             "id": 10649374,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T13:33:32Z",
+            "last_commit": "2026-11-15T08:53:14Z",
             "open_issues": 12,
             "owner": "elixir-ecto",
             "repo": "ecto",
-            "stars": 6503,
+            "stars": 6502,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -20178,7 +20178,7 @@
             "open_issues": 4,
             "owner": "elixir-ecto",
             "repo": "postgrex",
-            "stars": 1215,
+            "stars": 1214,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -20288,7 +20288,7 @@
             "open_issues": 28,
             "owner": "meh",
             "repo": "amnesia",
-            "stars": 707,
+            "stars": 706,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -20531,7 +20531,7 @@
             "open_issues": 25,
             "owner": "elixir-mongo",
             "repo": "mongodb_ecto",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "ecto",
               "elixir",
@@ -21325,7 +21325,7 @@
             "open_issues": 8,
             "owner": "WTTJ",
             "repo": "ecto_anon",
-            "stars": 91,
+            "stars": 90,
             "topics": [
               "anon",
               "anonymization",
@@ -22450,7 +22450,7 @@
             "open_issues": 0,
             "owner": "saleyn",
             "repo": "erlexec",
-            "stars": 617,
+            "stars": 616,
             "topics": [
               "erlang",
               "erlang-processes",
@@ -22989,7 +22989,7 @@
             "open_issues": 4,
             "owner": "elixir-broadway",
             "repo": "broadway",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "broadway",
               "concurrent",
@@ -23310,7 +23310,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2026-07-22T16:58:40Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "spreedly",
             "repo": "kaffe",
             "stars": 165,
@@ -24184,7 +24184,7 @@
             "open_issues": 4,
             "owner": "WTTJ",
             "repo": "algoliax",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "algolia",
               "ecto",
@@ -24269,7 +24269,7 @@
             "open_issues": 93,
             "owner": "build-trust",
             "repo": "ockam",
-            "stars": 4641,
+            "stars": 4642,
             "topics": [
               "authentication",
               "authorization",
@@ -25018,7 +25018,7 @@
             "open_issues": 2,
             "owner": "rwdaigle",
             "repo": "exgen",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "elixir",
               "mix",
@@ -25166,7 +25166,7 @@
             "open_issues": 5,
             "owner": "dashbitco",
             "repo": "mox",
-            "stars": 1402,
+            "stars": 1401,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -29488,7 +29488,7 @@
             "open_issues": 4,
             "owner": "WTTJ",
             "repo": "chargebeex",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "managed-as-code",
               "managed-by-renovate-marketplace"
@@ -31208,7 +31208,7 @@
             "open_issues": 3,
             "owner": "ferd",
             "repo": "erlang-history",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T16:33:02.756Z"
@@ -32884,7 +32884,7 @@
                 "id": 22329177,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T22:33:29Z",
+                "last_commit": "2026-11-15T11:14:02Z",
                 "open_issues": 342,
                 "owner": "intellij-elixir",
                 "repo": "intellij-elixir",
@@ -33467,7 +33467,7 @@
                 "id": 17271271,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-11-09T03:13:34Z",
+                "last_commit": "2026-11-15T07:31:55Z",
                 "open_issues": 9,
                 "owner": "exercism",
                 "repo": "elixir",
@@ -33672,11 +33672,11 @@
                 "id": 1234714,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T16:21:01Z",
+                "last_commit": "2026-11-14T20:16:00Z",
                 "open_issues": 23,
                 "owner": "elixir-lang",
                 "repo": "elixir",
-                "stars": 26720,
+                "stars": 26722,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:33:02.756Z"
@@ -33693,11 +33693,11 @@
                 "id": 1234714,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T16:21:01Z",
+                "last_commit": "2026-11-14T20:16:00Z",
                 "open_issues": 23,
                 "owner": "elixir-lang",
                 "repo": "elixir",
-                "stars": 26720,
+                "stars": 26722,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:33:02.756Z"
@@ -33718,7 +33718,7 @@
                 "open_issues": 0,
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3065,
+                "stars": 3066,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:33:02.756Z"
@@ -33733,7 +33733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:22:55.796Z",
+    "last_updated": "2026-11-15T11:53:22.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
@@ -33745,7 +33745,7 @@
       "open_issues": 46,
       "owner": "h4cc",
       "repo": "awesome-elixir",
-      "stars": 13167,
+      "stars": 13166,
       "topics": []
     },
     "original_repository_sha": "6f1dc0b67ed44e405a6d31303ba42f4f47cbe0d9",
